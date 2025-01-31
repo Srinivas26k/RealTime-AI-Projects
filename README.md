@@ -1,6 +1,4 @@
-Here's a well-structured, SEO-optimized **README.md** for your GitHub repository:  
 
----
 
 ## 🚀 Real-Time AI Projects  
 
@@ -8,7 +6,7 @@ Here's a well-structured, SEO-optimized **README.md** for your GitHub repository
 
 Welcome to **Real-Time AI Projects** – a collection of hands-on, real-world AI implementations! Here, you'll find exciting projects that leverage **Machine Learning (ML), Deep Learning (DL), and AI** to solve real-world problems.  
 
-This repository is **curated and maintained by [Nampalli Srinivas](https://github.com/your-github-profile)** and features AI projects built using real-time data, inspired by concepts taught in **ML & AI classes.**  
+This repository is **curated and maintained by [Nampalli Srinivas](https://srinivas26k.github.io/Nampalli-Srinivas/)** and features AI projects built using real-time data, inspired by concepts taught in **ML & AI classes.**  
 
 ---
 
@@ -36,7 +34,7 @@ More exciting projects coming soon! 🚀
 ## 💡 How to Use This Repo  
 1️⃣ Clone the repository  
 ```bash
-git clone [https://github.com/your-github-username/RealTime-AI-Projects.git](https://github.com/Srinivas26k/RealTime-AI-Projects.git)
+git clone https://github.com/Srinivas26k/RealTime-AI-Projects.git
 cd RealTime-AI-Projects
 ```
 2️⃣ Install dependencies  
@@ -61,13 +59,10 @@ This repository is **open for contributions!**
 ---
 
 ## 🔗 Connect with Me  
-👤 **[Nampalli Srinivas]([[https://github.com/Srinivas26k)](https://srinivas26k.github.io/Nampalli-Srinivas/)])**  
-🌐 **GitHub:** [github.com/your-github-username](https://github.com/Srinivas26k)  
-💬 **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/srinivas-nampalli/))  
-📢 **Twitter:** [twitter.com/your-profile](https://x.com/Srinivas26k)  
+👤 **Portfolio:** [srinivas26k.github.io/Nampalli-Srinivas/](https://srinivas26k.github.io/Nampalli-Srinivas/)  
+🌐 **GitHub:** [github.com/Srinivas26k](https://github.com/Srinivas26k)  
+💬 **LinkedIn:** [linkedin.com/in/srinivas-nampalli/](https://www.linkedin.com/in/srinivas-nampalli/)  
+📢 **Twitter (X):** [x.com/Srinivas26k](https://x.com/Srinivas26k)  
 
 🚀 **Let’s innovate and build the future of AI together!**  
 
----
-
-Would you like me to tweak anything before you upload it? 😊
